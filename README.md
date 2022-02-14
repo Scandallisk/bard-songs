@@ -26,7 +26,7 @@ This code was produced for PublicServer version 1.4.7
 
 ## barding.lua
 
-            Lines 122-159
+    Lines 122-159
 
 Path:  base > scripts > globals > static_data > prestige > barding.lua
 
@@ -78,7 +78,7 @@ Path:  base > scripts > globals > static_data > prestige > barding.lua
 
 ## barding.lua
 
-            Lines 161-198
+    Lines 161-198
 
 Path:  base > scripts > globals > static_data > prestige > barding.lua
 
@@ -132,7 +132,7 @@ Path:  base > scripts > globals > static_data > prestige > barding.lua
 
 ## barding.lua
 
-            Lines 201-237
+    Lines 201-237
 
 Path:  base > scripts > globals > static_data > prestige > barding.lua
 
