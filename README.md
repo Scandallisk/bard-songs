@@ -26,7 +26,7 @@ This code was produced for PublicServer version 1.4.7
 
 ## barding.lua
 
-### Lines 122-159
+            Lines 122-159
 
 Path:  base > scripts > globals > static_data > prestige > barding.lua
 
@@ -35,7 +35,7 @@ Path:  base > scripts > globals > static_data > prestige > barding.lua
 #### Descripton - Increase party defense by +10.
 
 
-            --SCAN ADDED
+        --SCAN ADDED
         SongOfIron = {
             NoTrainingRequired = true,
             NeedSongBook = true,
@@ -75,8 +75,10 @@ Path:  base > scripts > globals > static_data > prestige > barding.lua
         },
         
         
-        
-### Lines 161-198
+
+## barding.lua
+
+            Lines 161-198
 
 Path:  base > scripts > globals > static_data > prestige > barding.lua
 
@@ -128,7 +130,9 @@ Path:  base > scripts > globals > static_data > prestige > barding.lua
         
         
 
-### Lines 161-198
+## barding.lua
+
+            Lines 201-237
 
 Path:  base > scripts > globals > static_data > prestige > barding.lua
 
