@@ -32,7 +32,9 @@ Path:  base > scripts > globals > static_data > prestige > barding.lua
 
 ### Song of Iron
 #### Skill Level Requirement = 75
-#### Descripton - Increase party defense by +10.
+#### Descripton
+
+Increase party defense by +10.
 
 
         --SCAN ADDED
@@ -86,7 +88,9 @@ Path:  base > scripts > globals > static_data > prestige > barding.lua
 
 #### Skill Level Requirement = 40
 
-#### Descripton - Increase party movement speed by 20%.
+#### Descripton
+
+Increase party movement speed by 20%.
 
 
         --SCAN ADDED
@@ -140,7 +144,9 @@ Path:  base > scripts > globals > static_data > prestige > barding.lua
 
 #### Skill Level Requirement = 60
 
-#### Descripton - Increase party Bloodlust regeneration by +2 per second.
+#### Descripton
+
+Increase party Bloodlust regeneration by +2 per second.
 
 
         --SCAN ADDED
